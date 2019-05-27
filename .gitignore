@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+tmp/
+spine_segmentation/
+tfrecords_spine_segmentation/
+tfrecords_spine_segmentation_with_superpixels/
 .Python
 build/
 develop-eggs/
